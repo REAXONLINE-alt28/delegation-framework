@@ -169,3 +169,7 @@ Currently in Gated Alpha phase. Sign up to be an early partner [here](https://ga
 - [EIP-7702](https://eips.ethereum.org/EIPS/eip-7702)
 - [EIP-7710](https://eips.ethereum.org/EIPS/eip-7710)
 - [EIP-7821](https://eips.ethereum.org/EIPS/eip-7821)
+Reax online nft 💼 # Marco de Delegación
+
+> [!ADVERTENCIA]
+> Usamos etiquetas para las versiones auditadas de las versiones de código, y la rama `main` es la rama de desarrollo funcional. Todas las solicitudes de incorporación de cambios deben basarse en `ma`.
